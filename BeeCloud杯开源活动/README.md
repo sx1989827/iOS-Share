@@ -4,18 +4,25 @@
 ##项目投票
 ###分割线：
 [https://github.com/AirSars/BMLine](https://github.com/AirSars/BMLine)
+
 [https://github.com/GGGHub/SeparateCollection](https://github.com/GGGHub/SeparateCollection)
+
 [https://github.com/ButtFly/Separator](https://github.com/ButtFly/Separator)
+
 [https://github.com/SNTD/LDLineExtend](https://github.com/SNTD/LDLineExtend)
 
 ###TagList:
 [https://github.com/yuanjlGithub/Taglist](https://github.com/yuanjlGithub/Taglist)
+
 [https://github.com/MarsCWD/TagList](https://github.com/MarsCWD/TagList)
+
 [https://github.com/longitachi/TagList](https://github.com/longitachi/TagList)
 
 ###轮播动画:
 [https://github.com/potato512/CycleScrollView](https://github.com/potato512/CycleScrollView)
+
 [https://github.com/CreatFish/pageCycle](https://github.com/CreatFish/pageCycle)
+
 [https://github.com/MarsCWD/autoScrollView](https://github.com/MarsCWD/autoScrollView)
 
 ###一 活动背景
