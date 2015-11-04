@@ -1,6 +1,23 @@
 # BeeCloud杯iOS开源代码分享活动
 #### 本次活动由BeeCloud赞助，iosask协办，开发者头条为合作媒体。
 
+##项目投票
+###分割线：
+[https://github.com/AirSars/BMLine](https://github.com/AirSars/BMLine)
+[https://github.com/GGGHub/SeparateCollection](https://github.com/GGGHub/SeparateCollection)
+[https://github.com/ButtFly/Separator](https://github.com/ButtFly/Separator)
+[https://github.com/SNTD/LDLineExtend](https://github.com/SNTD/LDLineExtend)
+
+###TagList:
+[https://github.com/yuanjlGithub/Taglist](https://github.com/yuanjlGithub/Taglist)
+[https://github.com/MarsCWD/TagList](https://github.com/MarsCWD/TagList)
+[https://github.com/longitachi/TagList](https://github.com/longitachi/TagList)
+
+###轮播动画:
+[https://github.com/potato512/CycleScrollView](https://github.com/potato512/CycleScrollView)
+[https://github.com/CreatFish/pageCycle](https://github.com/CreatFish/pageCycle)
+[https://github.com/MarsCWD/autoScrollView](https://github.com/MarsCWD/autoScrollView)
+
 ###一 活动背景
 作为iOS开发的我们,希望拥有一个良好的职业素养,共同交流共同进步,因此在广大开发人员的支持下决定举办一个提供技术交流增加开发热情的活动.
 ###二 活动目的
